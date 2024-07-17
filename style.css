@@ -4,4 +4,6 @@ header {
 a {
     display: flex;
     text-decoration: none;
+    color: white;
+    background-color: darkorange;
 }
